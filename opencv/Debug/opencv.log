@@ -1,0 +1,21 @@
+﻿生成启动时间为 2013/11/12 15:46:39。
+     1>项目“D:\vs程序\vs2010\第12章\立体标定-校正-匹配\opencv\opencv.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\opencv.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         所有输出均为最新。
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         所有输出均为最新。
+       Manifest:
+         所有输出均为最新。
+       FinalizeBuildStatus:
+         正在删除文件“Debug\opencv.unsuccessfulbuild”。
+         正在对“Debug\opencv.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\vs程序\vs2010\第12章\立体标定-校正-匹配\opencv\opencv.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.32
